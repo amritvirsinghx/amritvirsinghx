@@ -7,4 +7,4 @@
 - 💬 Ask me about Data
 - 📫 How to reach me: amritvirsinghx@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Throw me any Data, I ll magically predict its future. (with ML,LOL)
+- ⚡ Fun fact: Throw me any Data, I ll magically predict its future.
